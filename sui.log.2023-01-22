@@ -1,0 +1,343 @@
+2023-01-22T18:01:11.103160Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:01:11.103246Z  INFO sui::client_commands: 
+2023-01-22T18:01:11.103260Z  INFO sui::client_commands: [1m----- Move Object (0xaaba8b30f7e848a4838ab3b7cdaf87dd9fa189bd[675842]) -----[0m
+2023-01-22T18:01:11.103271Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:01:11.103284Z  INFO sui::client_commands: [1;90mVersion[0m: 675842
+2023-01-22T18:01:11.103295Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:01:11.103305Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: D1J55q2wCbzq67euC7YgFRiaqtHeV7PhACNV6RGKJV7E
+2023-01-22T18:01:11.103318Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:01:11.103333Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:01:11.103348Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:01:11.103361Z  INFO sui::client_commands: [1;90mid[0m: 0xaaba8b30f7e848a4838ab3b7cdaf87dd9fa189bd
+2023-01-22T18:01:11.103372Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:01:11.103382Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:01:22.227892Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:01:22.227972Z  INFO sui::client_commands: 
+2023-01-22T18:01:22.227985Z  INFO sui::client_commands: [1m----- Move Object (0x98580bb37c1f02180221cd35e7770e738198583c[675843]) -----[0m
+2023-01-22T18:01:22.227997Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:01:22.228007Z  INFO sui::client_commands: [1;90mVersion[0m: 675843
+2023-01-22T18:01:22.228017Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:01:22.228027Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: 3RF8Kd6fpLzZWVvf4TZixVmRkSh8UyUvF1F1rPrAtLeD
+2023-01-22T18:01:22.228036Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:01:22.228063Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:01:22.228080Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:01:22.228090Z  INFO sui::client_commands: [1;90mid[0m: 0x98580bb37c1f02180221cd35e7770e738198583c
+2023-01-22T18:01:22.228099Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:01:22.228107Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:01:35.404482Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:01:35.404560Z  INFO sui::client_commands: 
+2023-01-22T18:01:35.404571Z  INFO sui::client_commands: [1m----- Move Object (0xcd2a0d997e4725094cc7db26ad66f3b88617b8fd[675844]) -----[0m
+2023-01-22T18:01:35.404581Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:01:35.404593Z  INFO sui::client_commands: [1;90mVersion[0m: 675844
+2023-01-22T18:01:35.404602Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:01:35.404610Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: AcQRXJZucbGtQMPi9ry5bVsqMGP2aZGqRz3kqygbJovw
+2023-01-22T18:01:35.404619Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:01:35.404627Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:01:35.404636Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:01:35.404645Z  INFO sui::client_commands: [1;90mid[0m: 0xcd2a0d997e4725094cc7db26ad66f3b88617b8fd
+2023-01-22T18:01:35.404654Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:01:35.404662Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:01:41.145584Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:01:41.145665Z  INFO sui::client_commands: 
+2023-01-22T18:01:41.145679Z  INFO sui::client_commands: [1m----- Move Object (0x9d41bfb04714338ba9594aa005968312799a7424[675845]) -----[0m
+2023-01-22T18:01:41.145700Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:01:41.145710Z  INFO sui::client_commands: [1;90mVersion[0m: 675845
+2023-01-22T18:01:41.145721Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:01:41.145731Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: 7CEVzGDvdr1AogMSJYBo94ahkj2efPKoK7bsH451KF3g
+2023-01-22T18:01:41.145741Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:01:41.145751Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:01:41.145760Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:01:41.145770Z  INFO sui::client_commands: [1;90mid[0m: 0x9d41bfb04714338ba9594aa005968312799a7424
+2023-01-22T18:01:41.145780Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:01:41.145790Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:01:50.116806Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:01:50.116884Z  INFO sui::client_commands: 
+2023-01-22T18:01:50.116896Z  INFO sui::client_commands: [1m----- Move Object (0xca5f23499d62d29fefed6846d7aabc503bec1f1d[675846]) -----[0m
+2023-01-22T18:01:50.116907Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:01:50.116916Z  INFO sui::client_commands: [1;90mVersion[0m: 675846
+2023-01-22T18:01:50.116926Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:01:50.116936Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: b6afVieMRoPuPuKN36FB8KKjEDE5XxRz7NrV95LQEjf
+2023-01-22T18:01:50.116946Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:01:50.116956Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:01:50.116966Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:01:50.116976Z  INFO sui::client_commands: [1;90mid[0m: 0xca5f23499d62d29fefed6846d7aabc503bec1f1d
+2023-01-22T18:01:50.116985Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:01:50.116997Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:01:58.621449Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:01:58.621530Z  INFO sui::client_commands: 
+2023-01-22T18:01:58.621541Z  INFO sui::client_commands: [1m----- Move Object (0x352ed60e8beb6fec91ed237f3e656aabb082c15a[675847]) -----[0m
+2023-01-22T18:01:58.621551Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:01:58.621560Z  INFO sui::client_commands: [1;90mVersion[0m: 675847
+2023-01-22T18:01:58.621569Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:01:58.621577Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: CgTkSimdtqTnuVRdJrMC9zfeC4d7cV2CMcFHXztTVTCV
+2023-01-22T18:01:58.621586Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:01:58.621595Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:01:58.621604Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:01:58.621612Z  INFO sui::client_commands: [1;90mid[0m: 0x352ed60e8beb6fec91ed237f3e656aabb082c15a
+2023-01-22T18:01:58.621621Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:01:58.621630Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:02:13.391174Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:02:13.391245Z  INFO sui::client_commands: 
+2023-01-22T18:02:13.391255Z  INFO sui::client_commands: [1m----- Move Object (0x3eccb15ba86649169e395e7a7fed9904e7e172ed[675848]) -----[0m
+2023-01-22T18:02:13.391265Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:02:13.391274Z  INFO sui::client_commands: [1;90mVersion[0m: 675848
+2023-01-22T18:02:13.391283Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:02:13.391292Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: G18K3urh7ix7qtBd6YrDQAt9625Loq9YkJ6RVeoMjS6X
+2023-01-22T18:02:13.391300Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:02:13.391309Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:02:13.391318Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:02:13.391327Z  INFO sui::client_commands: [1;90mid[0m: 0x3eccb15ba86649169e395e7a7fed9904e7e172ed
+2023-01-22T18:02:13.391336Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:02:13.391344Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:02:23.580595Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:02:23.580670Z  INFO sui::client_commands: 
+2023-01-22T18:02:23.580684Z  INFO sui::client_commands: [1m----- Move Object (0x5d7c09580c3606cc5a04fccfa7c8059593a7dcc7[675849]) -----[0m
+2023-01-22T18:02:23.580696Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:02:23.580706Z  INFO sui::client_commands: [1;90mVersion[0m: 675849
+2023-01-22T18:02:23.580717Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:02:23.580727Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: Hrwmxge4tkK8fDV7j2ypC2uPmuW9VDpeq3GA84bH6CjX
+2023-01-22T18:02:23.580737Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:02:23.580747Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:02:23.580756Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:02:23.580767Z  INFO sui::client_commands: [1;90mid[0m: 0x5d7c09580c3606cc5a04fccfa7c8059593a7dcc7
+2023-01-22T18:02:23.580783Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:02:23.580803Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:02:29.030903Z  INFO sui::client_commands: [1mSuccessfully created an ExampleNFT:[0m
+2023-01-22T18:02:29.030987Z  INFO sui::client_commands: 
+2023-01-22T18:02:29.030999Z  INFO sui::client_commands: [1m----- Move Object (0x2e9b05dc71f1264520ad5acf7ad6d2fb4a1d7901[675850]) -----[0m
+2023-01-22T18:02:29.031008Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:02:29.031016Z  INFO sui::client_commands: [1;90mVersion[0m: 675850
+2023-01-22T18:02:29.031024Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 25
+2023-01-22T18:02:29.031032Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: Hg1SkAnmFR7ARJxsh6ty2sLJh9vfZ4b9jc6qEnQpD3wZ
+2023-01-22T18:02:29.031039Z  INFO sui::client_commands: [1m----- Data -----[0m
+2023-01-22T18:02:29.031048Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::devnet_nft::DevNetNFT
+2023-01-22T18:02:29.031055Z  INFO sui::client_commands: [1;90mdescription[0m: An NFT created by the Sui Command Line Tool
+2023-01-22T18:02:29.031063Z  INFO sui::client_commands: [1;90mid[0m: 0x2e9b05dc71f1264520ad5acf7ad6d2fb4a1d7901
+2023-01-22T18:02:29.031071Z  INFO sui::client_commands: [1;90mname[0m: Example NFT
+2023-01-22T18:02:29.031103Z  INFO sui::client_commands: [1;90murl[0m: ipfs://bafkreibngqhl3gaa7daob4i2vccziay2jjlp435cf66vhono7nrvww53ty
+2023-01-22T18:02:58.688452Z  INFO sui::client_commands: Showing 2 results.
+2023-01-22T18:02:58.688548Z  INFO sui::client_commands: 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51
+2023-01-22T18:02:58.688560Z  INFO sui::client_commands: 0xe208177a20fbf4b65c6717adda66bac795891bc9
+2023-01-22T18:03:39.155531Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2023-01-22T18:03:39.155617Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-01-22T18:03:39.155628Z  INFO sui::client_commands:  0x0305f103b464597fcd3a74589c3456d435cfa6fa |   675829   | kkaIjUi3Kx8irLXWSSejloDr5O2dgoShLkW8YX/PL2E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155637Z  INFO sui::client_commands:  0x0abcdcc3907b6449de99b0d6b24ded735c5c5cd2 |   675850   | YDb3g18KUwxbSHwZ8Fb6eazk/vdE8lOtBzAt1ficfCM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.155645Z  INFO sui::client_commands:  0x0cc7596ae934144b7fd92fdfbd2ded82f47f8e51 |   675825   | jLWPzzKJudwvhQQvIn3TKOv/3Jbi7zD+HvglNIz3hOQ= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.155654Z  INFO sui::client_commands:  0x0d8c0648d1c5e0e8be6c9931a63f3d81879cfee8 |   675836   | lVnI7lyUcYNZ0OpRHglCjcvV7U7etICkdBd1qD9XHyo= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155663Z  INFO sui::client_commands:  0x10e3ba8f0da0d074d73d2d526c0e2c0541ac226f |    642     | qESV3kvd1yA3snIhjndOfNoC3NRCYy1OPtL+iWCtZxQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155672Z  INFO sui::client_commands:  0x13d715907eaf9e3f78f44be952dd32230be05131 |    633     | AhYCjZLw6H3lPZMl25PghlNJuYSWku1pz9S/JnoMTtc= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155681Z  INFO sui::client_commands:  0x1725d88e54ab466962beefc476c899e323e935f0 |    656     | /V0zXtv4c73IOgG9lpvqx9K/g/9zwZ+4JLsIgsVtuNY= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155690Z  INFO sui::client_commands:  0x18cee635ad2ba4cd6180f5a22aeac36f2612cb24 |    665     | TFRniJwzxVQ34NYLZ36eOSyc18s3QwZrE6LLozq8M+E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155699Z  INFO sui::client_commands:  0x1b1635754227638ab6a475bd5376eabd4fdc2c62 |    666     | tmjmnEpo2eNc7Hf1od8PPsC35AcG25EdsMMA3/cBsZ0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155709Z  INFO sui::client_commands:  0x1bc3b3d192752a132640ea9e7fee1af6775e983e |    653     | 73AnxRw/bNAonshrhGoH1McLWSI9QkHV5ji5lJnGDB0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155718Z  INFO sui::client_commands:  0x1d0775c898c9575fcf9692269dd5c34a43e1c9ec |    637     | jPVawuoOTl0kXqpN1RPNqW6M3adFQhONIYHG2gt7asQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155731Z  INFO sui::client_commands:  0x1f0878ed3ab3c4b9b736cd51a8da1671702b2f74 |    664     | n0s3EIrhgQJc9crd9W2F8ylh8cgYrwulzG2kthWJjW0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155740Z  INFO sui::client_commands:  0x1ff5d31eae5acd4994ac819eb705e9b06ee43949 |    643     | g3Rp25AKHcub4Ud75HQY3nMldP1B2R2c+VUqM+fgJ7Y= |  AddressOwner   | 0xc3c5886d60e6e698f7fb8b990adf70885d676697::capy::CapyManagerCap
+2023-01-22T18:03:39.155749Z  INFO sui::client_commands:  0x20f1d5aa31dd1c0fc04cb23b91c9a0b8c5d4a2c9 |   675782   | NFCX2MV7viD7gk2EkgOkVOtmE31PVmGwhM7smTUeFjY= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:03:39.155762Z  INFO sui::client_commands:  0x219385f8ddeaade1f86fc15bc5c98605fabc9d79 |    647     | M2eGZxWTW6aOyoBwxDxuDDtQU5KSOzHNgtB2RWKEos8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155772Z  INFO sui::client_commands:  0x22c5a38c3419c5ecd07e13ce9d8d540da1590f7c |    645     | rleGS5lCAG9fCff99JEAAN9xKf2uaycMmixChmvxndI= |  AddressOwner   | 0x376aa7d2eaaf53094335f0fe65ce6a521459a401::num::NumIssuerCap
+2023-01-22T18:03:39.155781Z  INFO sui::client_commands:  0x2460ced55216399e7b6a3fb4697baae137889d42 |    624     | ftaRauh4C8/rwsr7rbt1IdBb5yDTY+NzHub8HnXVddo= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.155791Z  INFO sui::client_commands:  0x295b6075649c1c318b85a635f41468fc49f89729 |    649     | QXQKkJ11DJqiGmr2+IbRypVjMl1jLMMPFX15oRCsn3g= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155800Z  INFO sui::client_commands:  0x2e9b05dc71f1264520ad5acf7ad6d2fb4a1d7901 |   675850   | L2J2abGzXtmS1vLkPLUxWqyrmiAFUzvT9U0JmZLDye0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155809Z  INFO sui::client_commands:  0x3369be6384888dfe8420f3031cc69fb0666a1153 |    641     | CPXs9hpFb1TirwczvB+xyUjoEF3deI25UFEfub4PlHM= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155818Z  INFO sui::client_commands:  0x351cd3d29757cdc2354654c0b06fc32997da781d |    626     | ZeWgq5KcMzV1PCYc2GjcztkWaK+6pNLesP6Un6eLPJw= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155831Z  INFO sui::client_commands:  0x352ed60e8beb6fec91ed237f3e656aabb082c15a |   675847   | frm3Y/LGmayRtZuu+ZG95/rqlEAwZGXZk7mBQJZ9MMI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155842Z  INFO sui::client_commands:  0x3d124a7bddf2ca97e00669f1e501095284024515 |    658     | YCl97j4Gc//7uoy94ENKh2amGij21qw3be4icaXFhQg= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155851Z  INFO sui::client_commands:  0x3dd122fe33423ea87284072dd0565001f26fe9a0 |   675835   | i70oBqlb5OO/9qGTEOvrkFSRlE+KOUvTVX7Epk766DE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155861Z  INFO sui::client_commands:  0x3ebb79d95e1df52adad3f8c96c2ed8a72a65f62d |    646     | iqxnAs/nQkQ+zeAAya0HtI0E/M1n1zJnI1ns+utmsN0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155870Z  INFO sui::client_commands:  0x3eccb15ba86649169e395e7a7fed9904e7e172ed |   675848   | bFkZWZyQrVBj9D/Wz1O/yOED1mhsk1vKUHv/wef2vug= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155880Z  INFO sui::client_commands:  0x42cbf165c4cc8e192907dba28de7c17bf5ef62e6 |    624     | dA6clI291uqTYUiOKm77NhbqXi67tRNjUW4kjrDAayA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.155890Z  INFO sui::client_commands:  0x4f45817cd7ae2601800870f83d1fdcfeeae171fd |    663     | 8ZRdoDHQ+MMlvyEZPOM13YTHEgpuYpkhwxiGndJiFno= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155899Z  INFO sui::client_commands:  0x55ea5c52d849eba5b8df4a832fcaaeb37163904a |    672     | afL5yJQQa4V+ks/oUxe1UV2Yu8bC8CtFGB5M/vUonJ4= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155908Z  INFO sui::client_commands:  0x5623c2e280284a11ef5102f7447eef829e3638fb |    645     | IPJz9yHSB1wQjFAq2THC1Bkamt/OcLq7LaoJssrLCVo= |  AddressOwner   | 0x376aa7d2eaaf53094335f0fe65ce6a521459a401::cross_chain_airdrop::CrossChainAirdropOracle
+2023-01-22T18:03:39.155923Z  INFO sui::client_commands:  0x5675e096a17b4b3f0e9157cfffd3acf5533d9e09 |    659     | OXbLeyGqS3umebtsWF4sES/wE7BEGwSOq2fXUGw0KC0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155937Z  INFO sui::client_commands:  0x59ae4fde90320264388e2ebc56714018ba9e9331 |    675     | X0rnP8HCHQF0rblei5fWxKfceswD4NiqnJlShcyZgDE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155950Z  INFO sui::client_commands:  0x5d7c09580c3606cc5a04fccfa7c8059593a7dcc7 |   675849   | +i6fnVDSL/1xpw1wOTfJk5OfbNO026QW2n4+1tg8LyQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155960Z  INFO sui::client_commands:  0x6021a661420cec58aa11453b54b75815e4df6223 |   675715   | mmjr8NWtysdxU19pSbJJ0dlre9I62hyRkBflOvgX9o8= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:03:39.155970Z  INFO sui::client_commands:  0x61b0bed41409beed618b36bb9cd80f0882ec0d52 |    673     | RN3bAq1hMoPojOCmqf1NwPp5qq1Z4hYeT8Nr8Zq+Fvc= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155979Z  INFO sui::client_commands:  0x63e0d2dd1790dfa2ecbc9fc21a718bb01c9da5af |    648     | cP43IohbbaEMQimLQzTQ6rsaJ/bBVTQ5zQV6Eo+2agk= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155988Z  INFO sui::client_commands:  0x65db951adb07a6fab0c2f0c8a362e96d18bdba16 |    631     | WYI96JOIMySqDhn7Od1CqYSL2y1VtsrZ21j+PwSGkL0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.155998Z  INFO sui::client_commands:  0x6b4989587ea65537f1de99beb1c03c06b6ba4f07 |   675833   | Rbc/3a6ZAFHSG7h8HrWH3T50R7XE2jrYUNmIR65Gu7k= |  AddressOwner   | 0x8b655907a206203e3f6dc117bb667699c0209e48::capy_item::StoreOwnerCap
+2023-01-22T18:03:39.156008Z  INFO sui::client_commands:  0x6e942d6a373b6cccffef3dd96279c1bf57da6fc3 |    629     | fQB/iIgoOkL/ho6egLk0o6OVCi+dnrL7SaQglAJBHeU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156022Z  INFO sui::client_commands:  0x780b0ebd0dd85067b00d3d750381da31f139b280 |    624     | Z6/bG2R7bWFOtN+9VlqYRNF4l2dUMrSpKpsM4e3qgaM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156033Z  INFO sui::client_commands:  0x80959efadfa26ea08f6de6bc61b07f58165110ba |    624     | ec6duYai3S/9qgEC3wTEkzbuJiF53VTDEjkzpzePvSQ= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156044Z  INFO sui::client_commands:  0x8b0364b1c86cab873ad2207348d95f58beff2f3e |    624     | DyRLaaCV7JChijd+BNxmpormS21xFW9CYFhL5U5fGlM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156052Z  INFO sui::client_commands:  0x8c4be92565fbc311184ebd3a9be902f48233a641 |    624     | uBra5SqUgQhtnQ5vqmzZSgt8UyqxcJuSabB7Ftj0KnE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156060Z  INFO sui::client_commands:  0x8c65d6f9bbc8cd7567c8348c6614cb40474ed0e5 |    632     | +CLPajGrOFwHAjchytgFuXkRH6SFqqchu/dWwwuOJ78= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156070Z  INFO sui::client_commands:  0x9037b15e5a9ddec2ca60166374bf03b028fb1162 |    639     | /+MQKx1T1SJnbYonvxjky7N17YmBBGyaCww8Z417rEU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156080Z  INFO sui::client_commands:  0x9069f271c2fa2fd90cd12c7bd474e9124449a2bd |    624     | xihbhcAKwJMO7w/FwRJ65cGYVUYPLPHXl07KFxyh7zc= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156089Z  INFO sui::client_commands:  0x948224a4903c305c17854f20632e51891e7dd29c |    628     | afBMiN+FjRQx3KwcwLcIFMYjWo/TbhUMc2bHjYIeCAE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156098Z  INFO sui::client_commands:  0x98580bb37c1f02180221cd35e7770e738198583c |   675843   | L5XTyDM3akzH8CkkEj3QIQgj8TczlDwb+v9wdlvxzvM= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156107Z  INFO sui::client_commands:  0x9d1422de3ae2dd26f018e132f9a7f20eaa8c394a |   675757   | Fa12jjH/5iHcvpkiUie4wGSayHFHZTplDbI14uQxOXI= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:03:39.156115Z  INFO sui::client_commands:  0x9d41bfb04714338ba9594aa005968312799a7424 |   675845   | Lm4B7p5xlKbijDJ9+OO2WHrqs9gdC8vxEJgsSvRm+B8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156125Z  INFO sui::client_commands:  0x9db48ea9a1759feaaf5cc1d4c7f1b74892163757 |    624     | 3+XEFckuDXun3TWPT2VC2AVPXJzXHQV+GCxRusTu+Qw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156134Z  INFO sui::client_commands:  0x9e81b41ce34a55c69f1f7fe9a987230200f21066 |   675828   | WAMCK+fe/LRZ3nOHDHnt23usVtViSnsqkM6A2klZL4Q= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156143Z  INFO sui::client_commands:  0x9ff68350e501cb16d7b0185397d99544d81f6f38 |   675834   | unvSKEa3KpsJVJbMdcEfyRFjtFi6yIO46Hu2xyEHjGY= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156152Z  INFO sui::client_commands:  0xa0c096a8446f3a90350f2e7a09b544b6726061b6 |    661     | riH6SFRRppOI3HQs+lORXwhwcnKpFgTsNk0d1GpBBMI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156161Z  INFO sui::client_commands:  0xa871019e3ba350827f36620a5f2a4318b2ef7a15 |    669     | HvWSScZDmfMPmvxtGPgYWZI7r9waalPO778QnivmzF8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156169Z  INFO sui::client_commands:  0xa8ff23e919c68ff835e5ee5575b480f6d45cf075 |   675830   | V+ytfjZNMwU1z/fXBxgf+e+/9ArXKDymLTwZLBjUiiQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156178Z  INFO sui::client_commands:  0xaaba8b30f7e848a4838ab3b7cdaf87dd9fa189bd |   675842   | 20ouDc31X3Kje5QMJ01AuLu6GelHPKXO+oz6P3NyEZM= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156187Z  INFO sui::client_commands:  0xaaf9429e39615d367bb90635c44602d2dc56d4e5 |    667     | bn0NxtW4G5+5lr/K/YsF/sF76Los90Orgvok4TVgBco= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156196Z  INFO sui::client_commands:  0xaef8096917b924e57d6fcf343c5d6ea12b169309 |    634     | Gf7g/7/nqgscZy5TEIQZC9TG6Kfka+D/+noNFHPmLwc= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156205Z  INFO sui::client_commands:  0xb46b36d151b0345bbdbac7db5e5b438dfc883ec0 |    644     | 1jaW7FjsK0lLtQvPEkv2mKje/knhuTMHcLKlzF555VE= |  AddressOwner   | 0x1e61e261b41ccabb5c972df6fd9968f9fd687b15::capy_item::StoreOwnerCap
+2023-01-22T18:03:39.156213Z  INFO sui::client_commands:  0xb783993a9f91209687f130befd182b0f45bcd654 |    636     | mrzlsP+g/JOPnK7BEE5XzQXMCegvwVrLUdzyjQRWxpY= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156222Z  INFO sui::client_commands:  0xba32c3659985ba7d8456978f4971696565a2067c |    624     | BF040zad4+JuQxtJINjwFI4OwvXvlZ12QOy9tZykN0c= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156231Z  INFO sui::client_commands:  0xbabb995f69f3b6efae12b2bc484dbffd82e49464 |    638     | 0ol6Sj7ZLW2b7NFPQwtFoZYC1k99W9tRnCzC9XU3/P8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156239Z  INFO sui::client_commands:  0xbe53ad789a3667e1fe220726c09e65572de9d618 |   675831   | dxe6ObASGYktK8T6pdYtwXyAhbbWo/dlS9fR4Gm+olQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156248Z  INFO sui::client_commands:  0xc0dd74e56e4b3afee8fbe52aba2ce3f8be10a98e |    643     | h7CyUSA5GfeArSul76XfuLZ18K36ENcthYwDi37xpr0= |  AddressOwner   | 0xc3c5886d60e6e698f7fb8b990adf70885d676697::capy_item::StoreOwnerCap
+2023-01-22T18:03:39.156257Z  INFO sui::client_commands:  0xc308c2f6812f9335d47664b982772a04fa645b1a |    650     | gLB40+rvoELmaP0WfVZl/Y7MvbjpffrV3oFSEi69K1E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156266Z  INFO sui::client_commands:  0xc321f2d7f791ce98c80541a79a7461542743b67c |    670     | Cyc70m/AsRW33gg3aqu97VauKRftz2ycAR34cZarCeU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156275Z  INFO sui::client_commands:  0xc434ffc7116060339497ed9c37d7a90b79a2d12d |    654     | f8D0BnsXBUDkr2QVbfWbjV3HPKLIwVsVp0Kd0vhYwGE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156283Z  INFO sui::client_commands:  0xc8ca8bcb4c3fa43a767c56c79490da4f8f1d6f1c |    674     | 4GVyqkKFsJr5tyYzZu6Cn4tUaEUht52/1fqW6/rCuPI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156296Z  INFO sui::client_commands:  0xc985eb4c9fef08701c7a79822d46ccb7e4fbe5ba |    655     | f0CHIpKuoRsVPo7xp4WZZCyvpsVud25PYEo0ldNS0DE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156310Z  INFO sui::client_commands:  0xca49971b146093cc9034ecb991ebead2d50e2711 |   675790   | mtyEWG+JVdFkYz7oLsmeul6ErXBpYa6VsVgE6SlzFcg= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:03:39.156319Z  INFO sui::client_commands:  0xca5f23499d62d29fefed6846d7aabc503bec1f1d |   675846   | 1nPWjzyWyX3dL3R5GW2/TnymiAceoitB33BwdgaYlR0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156329Z  INFO sui::client_commands:  0xcb2306f0227fa4d18cb54c4393a60bff94cc06a4 |   675825   | 8eu91akv+VmCg732rk9AJ8BCZtj/mGpR9w8tq5jUZPM= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:03:39.156339Z  INFO sui::client_commands:  0xcd0ca1f00cd794385232229c86bd482e3b943e9b |    635     | 5iFZMin4GVKhaPbXGE0e9bUd5u+xEOBnDWLw4R4wHYA= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156347Z  INFO sui::client_commands:  0xcd2a0d997e4725094cc7db26ad66f3b88617b8fd |   675844   | Z+dlsrnaYsz7Tj4tcxvv7QFDOcNn/9w4voTCdHMGlgE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156363Z  INFO sui::client_commands:  0xce0c6edf84dacfb055545a333768f2dd524c422a |    668     | 8KG9o1fznOudCJggI6w5fVtH7bcxwENzjPtDLcBIZuI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156372Z  INFO sui::client_commands:  0xdbf5a7d660c955b7d8b17eea4eff4db8dabe2c24 |    644     | jCk+xVftbKWgWuKmTpJDs6Ae3RKsEe2655oeJeFy7Ig= |  AddressOwner   | 0x1e61e261b41ccabb5c972df6fd9968f9fd687b15::capy::CapyManagerCap
+2023-01-22T18:03:39.156381Z  INFO sui::client_commands:  0xdfa4a223311921aa9871fffe248c46e7e815fa98 |   675826   | f9d+9QYkZF62Lfp0YStXeE6GbBDDqGabKZJn3xR7Vko= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156390Z  INFO sui::client_commands:  0xdfb937bf84f52bb9007c04ad27f40858c1000a94 |    652     | fSE4BVrsghLLBS6a9QI6ZCeTvIKQ+O+CZfiCR52zh9E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156398Z  INFO sui::client_commands:  0xe20843a83c61968988bb0e4ef8e138d535e08cd3 |   675730   | GIrjzQSWAed66sCXrsDHrvOuiZMIQEJujSbnz3ibymY= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:03:39.156407Z  INFO sui::client_commands:  0xe2c0ac5365c7d89f8e1dc2c4e625071ce0ef42e8 |    625     | my8zmbcRZyuDNLobKOjJiVqoxCF5xmZFCF1TIg4KGjQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156416Z  INFO sui::client_commands:  0xe3d3ac7e1844e6246a1485cdf63c5a600635455a |    651     | Irrmgp13vtfKIr9Ir3tj91BO+woxJVzzAToq2hJPjNw= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156425Z  INFO sui::client_commands:  0xe5d8757195cf969fe97183209166013a623e24b6 |    662     | TefQ548aaZjbg3mCBdCeFXK1/tdzZaijKZWKWwYuX/0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156434Z  INFO sui::client_commands:  0xe85b8c2b857cb30f46b9cbca81de18290584753f |    624     | ehNPxWTI0hwDf6SVtlTEgrGmRgLNICl1Q57BLSUXm3c= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156442Z  INFO sui::client_commands:  0xea0038fa3a998c382f7a8a56accbeca5ab2b6212 |    624     | +RH2KeYissBVjrHYt6rWTjuK4t6kdHNX5TS4h73SbII= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:03:39.156451Z  INFO sui::client_commands:  0xeb66caa816f99fcd75242de7119c8c6a454760a7 |    630     | 9qQ8HV2PG6flySzSLp/OvlCg8nrapG/lI3XQ1UOLNQU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156460Z  INFO sui::client_commands:  0xf09de21201f0fb82ec1ec5427773937550008c19 |    660     | lNGbGRvgjj0AwC42L2cZ0YOVQ8JKXh2Sbql3L6OwA3w= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156469Z  INFO sui::client_commands:  0xf1ebd351e9cc028302348b34556fbfd14a34accb |   675827   | AA2daqRblcQE537VV4owxM588goxJblHN5EuF8X7/f0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156478Z  INFO sui::client_commands:  0xf3d4fafb7cc3b78f219e2e57c1433d82b4ad873a |    671     | eXnM8eUTZz53DhoMNy4Xdy3E+11cwQo2yWTSG74FGw4= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:03:39.156487Z  INFO sui::client_commands:  0xf6c8b987b2522bd63925afae0422b34f74802999 |   675833   | d6d+H+6ywXvTquKAg7In/hv8MGgPCJvGaVZW0jHYVdI= |  AddressOwner   | 0x8b655907a206203e3f6dc117bb667699c0209e48::capy::CapyManagerCap
+2023-01-22T18:03:39.156495Z  INFO sui::client_commands: Showing 90 results.
+2023-01-22T18:05:06.107836Z  INFO sui::client_commands: Transfer confirmed after 1370396 us
+2023-01-22T18:05:06.107926Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-22T18:05:06.107938Z  INFO sui::client_commands: Transaction Hash: 857CQQhSSa52V3Kv1TrtyYgrd2AwiSRSAxMoDDZxYLM4
+2023-01-22T18:05:06.107948Z  INFO sui::client_commands: Transaction Signature: AA==@+ZJB0aIlWQLNnaHYQ8hRq/WwTuB0+JbLR1W1dZO+PgHjv03IadA8gBKUFQ4nEobhOce9cuwUq1tADm9IdU0dDg==@/NNVrP7UCB/V0ViqZ2mpOrO7+n20BQ9VP1DdTE+6Rjg=
+2023-01-22T18:05:06.107960Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2023-01-22T18:05:06.107970Z  INFO sui::client_commands: Transaction Kind : Transfer Object
+2023-01-22T18:05:06.107980Z  INFO sui::client_commands: Recipient : 0xe208177a20fbf4b65c6717adda66bac795891bc9
+2023-01-22T18:05:06.107989Z  INFO sui::client_commands: Object ID : 0xf6c8b987b2522bd63925afae0422b34f74802999
+2023-01-22T18:05:06.107999Z  INFO sui::client_commands: Version : SequenceNumber(675833)
+2023-01-22T18:05:06.108009Z  INFO sui::client_commands: Object Digest : d6d+H+6ywXvTquKAg7In/hv8MGgPCJvGaVZW0jHYVdI=
+2023-01-22T18:05:06.108019Z  INFO sui::client_commands: Sender: 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51
+2023-01-22T18:05:06.108029Z  INFO sui::client_commands: Gas Payment: Object ID: 0x0abcdcc3907b6449de99b0d6b24ded735c5c5cd2, version: 0xa500a, digest: 0x6036f7835f0a530c5b487c19f056fa79ace4fef744f253ad07302dd5f89c7c23
+2023-01-22T18:05:06.108040Z  INFO sui::client_commands: Gas Price: 1
+2023-01-22T18:05:06.108051Z  INFO sui::client_commands: Gas Budget: 3000
+2023-01-22T18:05:06.108061Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-22T18:05:06.108071Z  INFO sui::client_commands: Status : Success
+2023-01-22T18:05:06.108082Z  INFO sui::client_commands: Mutated Objects:
+2023-01-22T18:05:06.108092Z  INFO sui::client_commands:   - ID: 0x0abcdcc3907b6449de99b0d6b24ded735c5c5cd2 , Owner: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:05:06.108102Z  INFO sui::client_commands:   - ID: 0xf6c8b987b2522bd63925afae0422b34f74802999 , Owner: Account Address ( 0xe208177a20fbf4b65c6717adda66bac795891bc9 )
+2023-01-22T18:05:23.817180Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2023-01-22T18:05:23.817265Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-01-22T18:05:23.817276Z  INFO sui::client_commands:  0x0305f103b464597fcd3a74589c3456d435cfa6fa |   675829   | kkaIjUi3Kx8irLXWSSejloDr5O2dgoShLkW8YX/PL2E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817285Z  INFO sui::client_commands:  0x0abcdcc3907b6449de99b0d6b24ded735c5c5cd2 |   675851   | XioKGTcZHehYuI7hwbNyGsaEmBZdqp79BcIWjJ0YUd8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817293Z  INFO sui::client_commands:  0x0cc7596ae934144b7fd92fdfbd2ded82f47f8e51 |   675825   | jLWPzzKJudwvhQQvIn3TKOv/3Jbi7zD+HvglNIz3hOQ= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817304Z  INFO sui::client_commands:  0x0d8c0648d1c5e0e8be6c9931a63f3d81879cfee8 |   675836   | lVnI7lyUcYNZ0OpRHglCjcvV7U7etICkdBd1qD9XHyo= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817314Z  INFO sui::client_commands:  0x10e3ba8f0da0d074d73d2d526c0e2c0541ac226f |    642     | qESV3kvd1yA3snIhjndOfNoC3NRCYy1OPtL+iWCtZxQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817324Z  INFO sui::client_commands:  0x13d715907eaf9e3f78f44be952dd32230be05131 |    633     | AhYCjZLw6H3lPZMl25PghlNJuYSWku1pz9S/JnoMTtc= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817333Z  INFO sui::client_commands:  0x1725d88e54ab466962beefc476c899e323e935f0 |    656     | /V0zXtv4c73IOgG9lpvqx9K/g/9zwZ+4JLsIgsVtuNY= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817344Z  INFO sui::client_commands:  0x18cee635ad2ba4cd6180f5a22aeac36f2612cb24 |    665     | TFRniJwzxVQ34NYLZ36eOSyc18s3QwZrE6LLozq8M+E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817354Z  INFO sui::client_commands:  0x1b1635754227638ab6a475bd5376eabd4fdc2c62 |    666     | tmjmnEpo2eNc7Hf1od8PPsC35AcG25EdsMMA3/cBsZ0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817365Z  INFO sui::client_commands:  0x1bc3b3d192752a132640ea9e7fee1af6775e983e |    653     | 73AnxRw/bNAonshrhGoH1McLWSI9QkHV5ji5lJnGDB0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817373Z  INFO sui::client_commands:  0x1d0775c898c9575fcf9692269dd5c34a43e1c9ec |    637     | jPVawuoOTl0kXqpN1RPNqW6M3adFQhONIYHG2gt7asQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817382Z  INFO sui::client_commands:  0x1f0878ed3ab3c4b9b736cd51a8da1671702b2f74 |    664     | n0s3EIrhgQJc9crd9W2F8ylh8cgYrwulzG2kthWJjW0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817393Z  INFO sui::client_commands:  0x1ff5d31eae5acd4994ac819eb705e9b06ee43949 |    643     | g3Rp25AKHcub4Ud75HQY3nMldP1B2R2c+VUqM+fgJ7Y= |  AddressOwner   | 0xc3c5886d60e6e698f7fb8b990adf70885d676697::capy::CapyManagerCap
+2023-01-22T18:05:23.817402Z  INFO sui::client_commands:  0x20f1d5aa31dd1c0fc04cb23b91c9a0b8c5d4a2c9 |   675782   | NFCX2MV7viD7gk2EkgOkVOtmE31PVmGwhM7smTUeFjY= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:05:23.817411Z  INFO sui::client_commands:  0x219385f8ddeaade1f86fc15bc5c98605fabc9d79 |    647     | M2eGZxWTW6aOyoBwxDxuDDtQU5KSOzHNgtB2RWKEos8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817420Z  INFO sui::client_commands:  0x22c5a38c3419c5ecd07e13ce9d8d540da1590f7c |    645     | rleGS5lCAG9fCff99JEAAN9xKf2uaycMmixChmvxndI= |  AddressOwner   | 0x376aa7d2eaaf53094335f0fe65ce6a521459a401::num::NumIssuerCap
+2023-01-22T18:05:23.817430Z  INFO sui::client_commands:  0x2460ced55216399e7b6a3fb4697baae137889d42 |    624     | ftaRauh4C8/rwsr7rbt1IdBb5yDTY+NzHub8HnXVddo= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817439Z  INFO sui::client_commands:  0x295b6075649c1c318b85a635f41468fc49f89729 |    649     | QXQKkJ11DJqiGmr2+IbRypVjMl1jLMMPFX15oRCsn3g= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817449Z  INFO sui::client_commands:  0x2e9b05dc71f1264520ad5acf7ad6d2fb4a1d7901 |   675850   | L2J2abGzXtmS1vLkPLUxWqyrmiAFUzvT9U0JmZLDye0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817459Z  INFO sui::client_commands:  0x3369be6384888dfe8420f3031cc69fb0666a1153 |    641     | CPXs9hpFb1TirwczvB+xyUjoEF3deI25UFEfub4PlHM= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817469Z  INFO sui::client_commands:  0x351cd3d29757cdc2354654c0b06fc32997da781d |    626     | ZeWgq5KcMzV1PCYc2GjcztkWaK+6pNLesP6Un6eLPJw= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817479Z  INFO sui::client_commands:  0x352ed60e8beb6fec91ed237f3e656aabb082c15a |   675847   | frm3Y/LGmayRtZuu+ZG95/rqlEAwZGXZk7mBQJZ9MMI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817488Z  INFO sui::client_commands:  0x3d124a7bddf2ca97e00669f1e501095284024515 |    658     | YCl97j4Gc//7uoy94ENKh2amGij21qw3be4icaXFhQg= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817498Z  INFO sui::client_commands:  0x3dd122fe33423ea87284072dd0565001f26fe9a0 |   675835   | i70oBqlb5OO/9qGTEOvrkFSRlE+KOUvTVX7Epk766DE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817508Z  INFO sui::client_commands:  0x3ebb79d95e1df52adad3f8c96c2ed8a72a65f62d |    646     | iqxnAs/nQkQ+zeAAya0HtI0E/M1n1zJnI1ns+utmsN0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817518Z  INFO sui::client_commands:  0x3eccb15ba86649169e395e7a7fed9904e7e172ed |   675848   | bFkZWZyQrVBj9D/Wz1O/yOED1mhsk1vKUHv/wef2vug= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817528Z  INFO sui::client_commands:  0x42cbf165c4cc8e192907dba28de7c17bf5ef62e6 |    624     | dA6clI291uqTYUiOKm77NhbqXi67tRNjUW4kjrDAayA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817536Z  INFO sui::client_commands:  0x4f45817cd7ae2601800870f83d1fdcfeeae171fd |    663     | 8ZRdoDHQ+MMlvyEZPOM13YTHEgpuYpkhwxiGndJiFno= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817545Z  INFO sui::client_commands:  0x55ea5c52d849eba5b8df4a832fcaaeb37163904a |    672     | afL5yJQQa4V+ks/oUxe1UV2Yu8bC8CtFGB5M/vUonJ4= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817555Z  INFO sui::client_commands:  0x5623c2e280284a11ef5102f7447eef829e3638fb |    645     | IPJz9yHSB1wQjFAq2THC1Bkamt/OcLq7LaoJssrLCVo= |  AddressOwner   | 0x376aa7d2eaaf53094335f0fe65ce6a521459a401::cross_chain_airdrop::CrossChainAirdropOracle
+2023-01-22T18:05:23.817565Z  INFO sui::client_commands:  0x5675e096a17b4b3f0e9157cfffd3acf5533d9e09 |    659     | OXbLeyGqS3umebtsWF4sES/wE7BEGwSOq2fXUGw0KC0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817577Z  INFO sui::client_commands:  0x59ae4fde90320264388e2ebc56714018ba9e9331 |    675     | X0rnP8HCHQF0rblei5fWxKfceswD4NiqnJlShcyZgDE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817587Z  INFO sui::client_commands:  0x5d7c09580c3606cc5a04fccfa7c8059593a7dcc7 |   675849   | +i6fnVDSL/1xpw1wOTfJk5OfbNO026QW2n4+1tg8LyQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817598Z  INFO sui::client_commands:  0x6021a661420cec58aa11453b54b75815e4df6223 |   675715   | mmjr8NWtysdxU19pSbJJ0dlre9I62hyRkBflOvgX9o8= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:05:23.817607Z  INFO sui::client_commands:  0x61b0bed41409beed618b36bb9cd80f0882ec0d52 |    673     | RN3bAq1hMoPojOCmqf1NwPp5qq1Z4hYeT8Nr8Zq+Fvc= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817617Z  INFO sui::client_commands:  0x63e0d2dd1790dfa2ecbc9fc21a718bb01c9da5af |    648     | cP43IohbbaEMQimLQzTQ6rsaJ/bBVTQ5zQV6Eo+2agk= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817627Z  INFO sui::client_commands:  0x65db951adb07a6fab0c2f0c8a362e96d18bdba16 |    631     | WYI96JOIMySqDhn7Od1CqYSL2y1VtsrZ21j+PwSGkL0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817637Z  INFO sui::client_commands:  0x6b4989587ea65537f1de99beb1c03c06b6ba4f07 |   675833   | Rbc/3a6ZAFHSG7h8HrWH3T50R7XE2jrYUNmIR65Gu7k= |  AddressOwner   | 0x8b655907a206203e3f6dc117bb667699c0209e48::capy_item::StoreOwnerCap
+2023-01-22T18:05:23.817647Z  INFO sui::client_commands:  0x6e942d6a373b6cccffef3dd96279c1bf57da6fc3 |    629     | fQB/iIgoOkL/ho6egLk0o6OVCi+dnrL7SaQglAJBHeU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817656Z  INFO sui::client_commands:  0x780b0ebd0dd85067b00d3d750381da31f139b280 |    624     | Z6/bG2R7bWFOtN+9VlqYRNF4l2dUMrSpKpsM4e3qgaM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817666Z  INFO sui::client_commands:  0x80959efadfa26ea08f6de6bc61b07f58165110ba |    624     | ec6duYai3S/9qgEC3wTEkzbuJiF53VTDEjkzpzePvSQ= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817676Z  INFO sui::client_commands:  0x8b0364b1c86cab873ad2207348d95f58beff2f3e |    624     | DyRLaaCV7JChijd+BNxmpormS21xFW9CYFhL5U5fGlM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817685Z  INFO sui::client_commands:  0x8c4be92565fbc311184ebd3a9be902f48233a641 |    624     | uBra5SqUgQhtnQ5vqmzZSgt8UyqxcJuSabB7Ftj0KnE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817695Z  INFO sui::client_commands:  0x8c65d6f9bbc8cd7567c8348c6614cb40474ed0e5 |    632     | +CLPajGrOFwHAjchytgFuXkRH6SFqqchu/dWwwuOJ78= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817705Z  INFO sui::client_commands:  0x9037b15e5a9ddec2ca60166374bf03b028fb1162 |    639     | /+MQKx1T1SJnbYonvxjky7N17YmBBGyaCww8Z417rEU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817715Z  INFO sui::client_commands:  0x9069f271c2fa2fd90cd12c7bd474e9124449a2bd |    624     | xihbhcAKwJMO7w/FwRJ65cGYVUYPLPHXl07KFxyh7zc= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817724Z  INFO sui::client_commands:  0x948224a4903c305c17854f20632e51891e7dd29c |    628     | afBMiN+FjRQx3KwcwLcIFMYjWo/TbhUMc2bHjYIeCAE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817734Z  INFO sui::client_commands:  0x98580bb37c1f02180221cd35e7770e738198583c |   675843   | L5XTyDM3akzH8CkkEj3QIQgj8TczlDwb+v9wdlvxzvM= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817743Z  INFO sui::client_commands:  0x9d1422de3ae2dd26f018e132f9a7f20eaa8c394a |   675757   | Fa12jjH/5iHcvpkiUie4wGSayHFHZTplDbI14uQxOXI= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:05:23.817753Z  INFO sui::client_commands:  0x9d41bfb04714338ba9594aa005968312799a7424 |   675845   | Lm4B7p5xlKbijDJ9+OO2WHrqs9gdC8vxEJgsSvRm+B8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817763Z  INFO sui::client_commands:  0x9db48ea9a1759feaaf5cc1d4c7f1b74892163757 |    624     | 3+XEFckuDXun3TWPT2VC2AVPXJzXHQV+GCxRusTu+Qw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817774Z  INFO sui::client_commands:  0x9e81b41ce34a55c69f1f7fe9a987230200f21066 |   675828   | WAMCK+fe/LRZ3nOHDHnt23usVtViSnsqkM6A2klZL4Q= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817784Z  INFO sui::client_commands:  0x9ff68350e501cb16d7b0185397d99544d81f6f38 |   675834   | unvSKEa3KpsJVJbMdcEfyRFjtFi6yIO46Hu2xyEHjGY= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817794Z  INFO sui::client_commands:  0xa0c096a8446f3a90350f2e7a09b544b6726061b6 |    661     | riH6SFRRppOI3HQs+lORXwhwcnKpFgTsNk0d1GpBBMI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817804Z  INFO sui::client_commands:  0xa871019e3ba350827f36620a5f2a4318b2ef7a15 |    669     | HvWSScZDmfMPmvxtGPgYWZI7r9waalPO778QnivmzF8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817814Z  INFO sui::client_commands:  0xa8ff23e919c68ff835e5ee5575b480f6d45cf075 |   675830   | V+ytfjZNMwU1z/fXBxgf+e+/9ArXKDymLTwZLBjUiiQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817823Z  INFO sui::client_commands:  0xaaba8b30f7e848a4838ab3b7cdaf87dd9fa189bd |   675842   | 20ouDc31X3Kje5QMJ01AuLu6GelHPKXO+oz6P3NyEZM= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817833Z  INFO sui::client_commands:  0xaaf9429e39615d367bb90635c44602d2dc56d4e5 |    667     | bn0NxtW4G5+5lr/K/YsF/sF76Los90Orgvok4TVgBco= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817843Z  INFO sui::client_commands:  0xaef8096917b924e57d6fcf343c5d6ea12b169309 |    634     | Gf7g/7/nqgscZy5TEIQZC9TG6Kfka+D/+noNFHPmLwc= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817853Z  INFO sui::client_commands:  0xb46b36d151b0345bbdbac7db5e5b438dfc883ec0 |    644     | 1jaW7FjsK0lLtQvPEkv2mKje/knhuTMHcLKlzF555VE= |  AddressOwner   | 0x1e61e261b41ccabb5c972df6fd9968f9fd687b15::capy_item::StoreOwnerCap
+2023-01-22T18:05:23.817863Z  INFO sui::client_commands:  0xb783993a9f91209687f130befd182b0f45bcd654 |    636     | mrzlsP+g/JOPnK7BEE5XzQXMCegvwVrLUdzyjQRWxpY= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817873Z  INFO sui::client_commands:  0xba32c3659985ba7d8456978f4971696565a2067c |    624     | BF040zad4+JuQxtJINjwFI4OwvXvlZ12QOy9tZykN0c= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.817883Z  INFO sui::client_commands:  0xbabb995f69f3b6efae12b2bc484dbffd82e49464 |    638     | 0ol6Sj7ZLW2b7NFPQwtFoZYC1k99W9tRnCzC9XU3/P8= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817894Z  INFO sui::client_commands:  0xbe53ad789a3667e1fe220726c09e65572de9d618 |   675831   | dxe6ObASGYktK8T6pdYtwXyAhbbWo/dlS9fR4Gm+olQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817904Z  INFO sui::client_commands:  0xc0dd74e56e4b3afee8fbe52aba2ce3f8be10a98e |    643     | h7CyUSA5GfeArSul76XfuLZ18K36ENcthYwDi37xpr0= |  AddressOwner   | 0xc3c5886d60e6e698f7fb8b990adf70885d676697::capy_item::StoreOwnerCap
+2023-01-22T18:05:23.817914Z  INFO sui::client_commands:  0xc308c2f6812f9335d47664b982772a04fa645b1a |    650     | gLB40+rvoELmaP0WfVZl/Y7MvbjpffrV3oFSEi69K1E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817924Z  INFO sui::client_commands:  0xc321f2d7f791ce98c80541a79a7461542743b67c |    670     | Cyc70m/AsRW33gg3aqu97VauKRftz2ycAR34cZarCeU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817934Z  INFO sui::client_commands:  0xc434ffc7116060339497ed9c37d7a90b79a2d12d |    654     | f8D0BnsXBUDkr2QVbfWbjV3HPKLIwVsVp0Kd0vhYwGE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817945Z  INFO sui::client_commands:  0xc8ca8bcb4c3fa43a767c56c79490da4f8f1d6f1c |    674     | 4GVyqkKFsJr5tyYzZu6Cn4tUaEUht52/1fqW6/rCuPI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817955Z  INFO sui::client_commands:  0xc985eb4c9fef08701c7a79822d46ccb7e4fbe5ba |    655     | f0CHIpKuoRsVPo7xp4WZZCyvpsVud25PYEo0ldNS0DE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817965Z  INFO sui::client_commands:  0xca49971b146093cc9034ecb991ebead2d50e2711 |   675790   | mtyEWG+JVdFkYz7oLsmeul6ErXBpYa6VsVgE6SlzFcg= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:05:23.817974Z  INFO sui::client_commands:  0xca5f23499d62d29fefed6846d7aabc503bec1f1d |   675846   | 1nPWjzyWyX3dL3R5GW2/TnymiAceoitB33BwdgaYlR0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.817983Z  INFO sui::client_commands:  0xcb2306f0227fa4d18cb54c4393a60bff94cc06a4 |   675825   | 8eu91akv+VmCg732rk9AJ8BCZtj/mGpR9w8tq5jUZPM= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:05:23.817992Z  INFO sui::client_commands:  0xcd0ca1f00cd794385232229c86bd482e3b943e9b |    635     | 5iFZMin4GVKhaPbXGE0e9bUd5u+xEOBnDWLw4R4wHYA= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818001Z  INFO sui::client_commands:  0xcd2a0d997e4725094cc7db26ad66f3b88617b8fd |   675844   | Z+dlsrnaYsz7Tj4tcxvv7QFDOcNn/9w4voTCdHMGlgE= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818010Z  INFO sui::client_commands:  0xce0c6edf84dacfb055545a333768f2dd524c422a |    668     | 8KG9o1fznOudCJggI6w5fVtH7bcxwENzjPtDLcBIZuI= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818020Z  INFO sui::client_commands:  0xdbf5a7d660c955b7d8b17eea4eff4db8dabe2c24 |    644     | jCk+xVftbKWgWuKmTpJDs6Ae3RKsEe2655oeJeFy7Ig= |  AddressOwner   | 0x1e61e261b41ccabb5c972df6fd9968f9fd687b15::capy::CapyManagerCap
+2023-01-22T18:05:23.818031Z  INFO sui::client_commands:  0xdfa4a223311921aa9871fffe248c46e7e815fa98 |   675826   | f9d+9QYkZF62Lfp0YStXeE6GbBDDqGabKZJn3xR7Vko= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818040Z  INFO sui::client_commands:  0xdfb937bf84f52bb9007c04ad27f40858c1000a94 |    652     | fSE4BVrsghLLBS6a9QI6ZCeTvIKQ+O+CZfiCR52zh9E= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818051Z  INFO sui::client_commands:  0xe20843a83c61968988bb0e4ef8e138d535e08cd3 |   675730   | GIrjzQSWAed66sCXrsDHrvOuiZMIQEJujSbnz3ibymY= |  AddressOwner   | 0xc0ce82cb6210799e42d4a26bc7b6f5cebca0a010::base_registrar::RegistrationNFT
+2023-01-22T18:05:23.818061Z  INFO sui::client_commands:  0xe2c0ac5365c7d89f8e1dc2c4e625071ce0ef42e8 |    625     | my8zmbcRZyuDNLobKOjJiVqoxCF5xmZFCF1TIg4KGjQ= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818071Z  INFO sui::client_commands:  0xe3d3ac7e1844e6246a1485cdf63c5a600635455a |    651     | Irrmgp13vtfKIr9Ir3tj91BO+woxJVzzAToq2hJPjNw= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818082Z  INFO sui::client_commands:  0xe5d8757195cf969fe97183209166013a623e24b6 |    662     | TefQ548aaZjbg3mCBdCeFXK1/tdzZaijKZWKWwYuX/0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818093Z  INFO sui::client_commands:  0xe85b8c2b857cb30f46b9cbca81de18290584753f |    624     | ehNPxWTI0hwDf6SVtlTEgrGmRgLNICl1Q57BLSUXm3c= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.818103Z  INFO sui::client_commands:  0xea0038fa3a998c382f7a8a56accbeca5ab2b6212 |    624     | +RH2KeYissBVjrHYt6rWTjuK4t6kdHNX5TS4h73SbII= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2023-01-22T18:05:23.818113Z  INFO sui::client_commands:  0xeb66caa816f99fcd75242de7119c8c6a454760a7 |    630     | 9qQ8HV2PG6flySzSLp/OvlCg8nrapG/lI3XQ1UOLNQU= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818122Z  INFO sui::client_commands:  0xf09de21201f0fb82ec1ec5427773937550008c19 |    660     | lNGbGRvgjj0AwC42L2cZ0YOVQ8JKXh2Sbql3L6OwA3w= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818132Z  INFO sui::client_commands:  0xf1ebd351e9cc028302348b34556fbfd14a34accb |   675827   | AA2daqRblcQE537VV4owxM588goxJblHN5EuF8X7/f0= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818142Z  INFO sui::client_commands:  0xf3d4fafb7cc3b78f219e2e57c1433d82b4ad873a |    671     | eXnM8eUTZz53DhoMNy4Xdy3E+11cwQo2yWTSG74FGw4= |  AddressOwner   |        0x2::devnet_nft::DevNetNFT       
+2023-01-22T18:05:23.818153Z  INFO sui::client_commands: Showing 89 results.
+2023-01-22T18:05:50.389192Z  INFO sui::client_commands: Transfer confirmed after 1375715 us
+2023-01-22T18:05:50.389315Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-22T18:05:50.389328Z  INFO sui::client_commands: Transaction Hash: FNxQfJXSedKHdJJcsCzAraAUmfY65taYQeAhFzasW9yx
+2023-01-22T18:05:50.389339Z  INFO sui::client_commands: Transaction Signature: AA==@Y2+wopm3WBPs1efJn6x2dXE8Tr7V4sIZZSBcqCCHKoFF8VVbPPy9Itiqz3U26vUCN2WLcy2c0a3E/LTNwgmyBw==@/NNVrP7UCB/V0ViqZ2mpOrO7+n20BQ9VP1DdTE+6Rjg=
+2023-01-22T18:05:50.389350Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 2, 3]>
+2023-01-22T18:05:50.389360Z  INFO sui::client_commands: Transaction Kind : Transfer Object
+2023-01-22T18:05:50.389369Z  INFO sui::client_commands: Recipient : 0xe208177a20fbf4b65c6717adda66bac795891bc9
+2023-01-22T18:05:50.389377Z  INFO sui::client_commands: Object ID : 0xf3d4fafb7cc3b78f219e2e57c1433d82b4ad873a
+2023-01-22T18:05:50.389387Z  INFO sui::client_commands: Version : SequenceNumber(671)
+2023-01-22T18:05:50.389395Z  INFO sui::client_commands: Object Digest : eXnM8eUTZz53DhoMNy4Xdy3E+11cwQo2yWTSG74FGw4=
+2023-01-22T18:05:50.389404Z  INFO sui::client_commands: Sender: 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51
+2023-01-22T18:05:50.389413Z  INFO sui::client_commands: Gas Payment: Object ID: 0x0abcdcc3907b6449de99b0d6b24ded735c5c5cd2, version: 0xa500b, digest: 0x5e2a0a1937191de858b88ee1c1b3721ac68498165daa9efd05c2168c9d1851df
+2023-01-22T18:05:50.389421Z  INFO sui::client_commands: Gas Price: 1
+2023-01-22T18:05:50.389430Z  INFO sui::client_commands: Gas Budget: 3000
+2023-01-22T18:05:50.389438Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-22T18:05:50.389446Z  INFO sui::client_commands: Status : Success
+2023-01-22T18:05:50.389455Z  INFO sui::client_commands: Mutated Objects:
+2023-01-22T18:05:50.389465Z  INFO sui::client_commands:   - ID: 0x0abcdcc3907b6449de99b0d6b24ded735c5c5cd2 , Owner: Account Address ( 0x72b005f6ebbb1a7ec00ed5a8995c9e58c1b79e51 )
+2023-01-22T18:05:50.389475Z  INFO sui::client_commands:   - ID: 0xf3d4fafb7cc3b78f219e2e57c1433d82b4ad873a , Owner: Account Address ( 0xe208177a20fbf4b65c6717adda66bac795891bc9 )
